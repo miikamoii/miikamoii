@@ -2,7 +2,7 @@
 <ul>
   <li>Student at University of Eastern Finland (UEF)</li> 
    <ul>
-     <li>Graduation in spring 2023: Bachelor's degree in Computer Science</li> 
+     <li>Graduation in spring 2024: Bachelor's degree in Computer Science</li> 
    </ul>
   <li>Interests:</li>
   <ul><li>full-stack development</li><li>cybersecurity</li><li>tech in general</li></ul>
