@@ -7,7 +7,7 @@
   <li>Interests:</li>
   <ul><li>full-stack development</li><li>cybersecurity</li><li>tech in general</li></ul>
   <li>Hobbies:</li>
-  <ul><li>motorcycling</li><li>photography</li><li>picture editing</li></ul>
+  <ul><li>motorcycling</li><li>photography</li><li>photograph editing</li></ul>
 </ul>
 
 
